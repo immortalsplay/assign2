@@ -1,2 +1,2 @@
 # assign2
-![image](https://github.com/YourAcountName/ProjectName/blob/master/GIFName.gif ) 
+![image](https://github.com/immortalsplay/assign2/main/GIFName.gif ) 
